@@ -13,8 +13,7 @@ InnoConnect is a collaboration platform where creators, developers, and innovato
 - Build meaningful professional networks 🌐  
 
 ---
-<img width="1891" height="1037" alt="image" src="https://github.com/user-attachments/assets/7c9961a7-eb58-4e8a-808f-c41ced44b427" />
-
+<img width="1891" height="1037" alt="image" src="https://github.com/user-attachments/assets/b567bdec-f549-4a0f-a641-8cb656b1aef2" />
 
 ## 📊 Dashboard Highlights
 
@@ -44,4 +43,41 @@ When you log in, your personalized dashboard displays:
 
 ## 💡 Latest Ideas (Examples)
 
-| Idea
+| Idea | Tags | Description |
+|------|------|-------------|
+| **Skill Swap** | `technology`, `concept` | A platform where people can exchange skills and collaborate to grow together. |
+| **ArtFromCode** | `technology`, `concept` | Showcase and share digital art created using coding or AI. |
+| **Urban Garden Community Platform** | `environment`, `concept` | Connect urban gardeners to share tips, seeds, and coordinate community garden projects. |
+
+---
+
+## 🔗 Quick Access Links
+
+- 🌐 **Dashboard:** [https://spark-hub-b2bb63b6.base44.app/dashboard](https://spark-hub-b2bb63b6.base44.app/dashboard)
+- 💡 **Share an Idea:** Use the **“Share an Idea”** button on the dashboard to post your concept.  
+- 📂 **View All Ideas:** Check out all the latest ideas and projects shared by the community.
+
+---
+
+## 🧑‍💻 Example User Info
+
+**User:** tanushree
+**Email:** tanushreeakuthota@gmail.com  
+
+---
+
+## 🖼️ Dashboard Preview
+
+![InnoConnect Dashboard Screenshot](./screenshot.png)
+
+*(Replace the image path with your screenshot file if you’ve added it to the repo.)*
+
+---
+
+### 💬 Feedback & Contributions
+We welcome ideas and feedback to make InnoConnect even better!  
+Feel free to share suggestions or collaborate through the **Ideas Hub**.
+
+---
+
+**© 2025 InnoConnect. All rights reserved.**
